@@ -81,14 +81,6 @@ And your `index.css` includes:
 @tailwind utilities;
 ```
 
----
-
-## 📌 Notes
-
-- If any image link is broken, a fallback "No Image" placeholder will be shown.
-- To add more features like API integration (TMDB), pagination, or sorting — feel free to expand!
-
----
 
 ## 🛠 Built With
 
@@ -96,4 +88,3 @@ And your `index.css` includes:
 - [Tailwind CSS](https://tailwindcss.com/)
 - [React Router DOM](https://reactrouter.com/)
 
-Enjoy building! 🎉
